@@ -6,15 +6,6 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 
 ---
 
-## 🧰 Tech Stack
-
-**Languages:** TypeScript, JavaScript, Python, Java, Lua, C, C++, PHP, SQL  
-**Frontend:** React, Next.js, HTML, CSS, Tailwind  
-**Backend / DB:** Supabase, Node.js, REST APIs, MySQL  
-**Tools:** Git, Vercel, Playwright, CI/CD, VS Code
-
----
-
 ## 🚀 Featured Projects
 
 ### 🐛 [WormScans](https://worm-scans.vercel.app/)  
@@ -39,3 +30,11 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 - Meant to simulate your neighborhood friendly DM. They always pray on your downfall
 👉 [Repo](https://github.com/yourusername/dnd-stat-setter)
 
+<!--
+## 🧰 Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, Java, Lua, C, C++, PHP, SQL  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind  
+**Backend / DB:** Supabase, Node.js, REST APIs, MySQL  
+**Tools:** Git, Vercel, Playwright, CI/CD, VS Code
+-->
