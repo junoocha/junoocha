@@ -14,7 +14,7 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 - Used to be called **ThiefScans** before I realized, uh, maybe not.  
 👉 [Repo](https://github.com/yourusername/wormscans)  
 
----
+<!--
 
 ### 🌳 [Symmetrical Fractal Tree Generator](https://fractal-tree-gen.vercel.app/)
 *Recursive binary tree renderer | React, Next.js* 
@@ -29,7 +29,7 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 - Turns boring stat assignment into a modern UI experience.  
 - Meant to simulate your neighborhood friendly DM. They always pray on your downfall.
 👉 [Repo](https://github.com/yourusername/dnd-stat-setter)
-
+-->
 <!--
 ## 🧰 Tech Stack
 
