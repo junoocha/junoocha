@@ -6,7 +6,7 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🐛 [WormScans](https://worm-scans.vercel.app/)  
 *Manga/Manhwa Reader Platform | Next.js, Supabase, Python, Playwright, TypeScript*  
