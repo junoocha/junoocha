@@ -8,7 +8,7 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 
 ## 🚀 Featured Project
 
-### 🐛 [WormScans](https://worm-scans.vercel.app/)  
+### 🐛 [WormScans](https://www.wormscans.ca/)  
 *Manga/Manhwa Reader Platform | Next.js, Supabase, Python, Playwright, TypeScript*  
 - Automated chapter scraping and clean display of mangas/manhwas.  
 - Used to be called **ThiefScans** before I realized, uh, maybe not.  
