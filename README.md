@@ -12,7 +12,7 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 *Manga/Manhwa Reader Platform | Next.js, Supabase, Python, Playwright, TypeScript*  
 - Automated chapter scraping and clean display of mangas/manhwas.  
 - Used to be called **ThiefScans** before I realized, uh, maybe not.  
-👉 [Repo](https://github.com/yourusername/wormscans)  
+👉 [Repo](https://github.com/junoocha/wormscans)  
 
 <!--
 
