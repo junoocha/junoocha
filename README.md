@@ -28,7 +28,7 @@ I like creating apps, making clean UIs, and occasionally automating things I pro
 *A better way to set your stats | React, Next.js, Supabase*  
 - Turns boring stat assignment into a modern UI experience.  
 - Meant to simulate your neighborhood friendly DM. They always pray on your downfall.
-👉 [Repo](https://github.com/yourusername/dnd-stat-setter)
+👉 [Repo](https://github.com/junoocha/dnd-stat-setter)
 -->
 <!--
 ## 🧰 Tech Stack
